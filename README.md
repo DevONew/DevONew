@@ -14,7 +14,6 @@
 <div>
   
 [![Portfolio](https://img.shields.io/badge/📁_Portfolio-4A90E2?style=flat-square&logoColor=white)](https://glen-seat-06e.notion.site/3-21c3b767ded480a69cded24e9b9f8f73)
-[![Resume](https://img.shields.io/badge/📄_Resume-000000?style=flat-square&logo=Notion&logoColor=white)](https://glen-seat-06e.notion.site/b874036f1c274778a4618ac819929d43)
 [![Blog](https://img.shields.io/badge/✍️_Blog-12100E?style=flat-square&logo=github&logoColor=white)](https://devonew.github.io/)
 
 </div>
