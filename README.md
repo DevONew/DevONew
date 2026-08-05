@@ -5,8 +5,9 @@
 ### 3년차 프론트엔드 엔지니어 김예림입니다.
 
  백엔드 개발로 시작했지만, 사용자 경험을 직접 구현하는 프론트엔드에서 진정한 흥미를 발견했습니다.  
- 현재는 React 기반의 웹 애플리케이션 개발에 집중하고 있으며, AI 기술을 프론트엔드에 접목하는 것뿐만 아니라  
- AI 자체를 학습하여 개발 워크플로우에 효율적으로 활용하는 방법을 연구하고 있습니다.
+ 도메인을 이해해 요구사항 뒤의 근본적인 문제를 찾고, 성과로 연결하는 것을 개발자의 역할이라고 생각합니다.  
+ 현재는 AI 기술을 프론트엔드에 접목하는 것을 넘어, 도메인 맥락을 바탕으로 AI에게 올바른 질문을 던지고 결과를 비판적으로 검증하며  
+ 성과로 연결하는 AI 오케스트레이션 역량을 연구하고 있습니다.
 
 
 ## 🌐 About Me
@@ -16,6 +17,14 @@
 [![Portfolio](https://img.shields.io/badge/📁_Portfolio-4A90E2?style=flat-square&logoColor=white)](https://glen-seat-06e.notion.site/3-21c3b767ded480a69cded24e9b9f8f73)
 [![Blog](https://img.shields.io/badge/✍️_Blog-12100E?style=flat-square&logo=github&logoColor=white)](https://devonew.github.io/)
 
+</div>
+
+## 🤖 AI Stack
+<div>
+  <img src="https://img.shields.io/badge/claude%20code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/google%20antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/orca-000000?style=for-the-badge&logoColor=white">
 </div>
 
 ## 📚 Main Stack
